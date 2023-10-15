@@ -1,3 +1,9 @@
+/*
+ * Author: Sean Jette
+ * Date: 15OCT2023
+ * Project: CS210 - Project Three
+ */
+
 #ifndef GROCERY_STORE_H
 #define GROCERY_STORE_H
 

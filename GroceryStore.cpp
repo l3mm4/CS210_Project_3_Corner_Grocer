@@ -1,3 +1,9 @@
+/*
+ * Author: Sean Jette
+ * Date: 15OCT2023
+ * Project: CS210 - Project Three
+ */
+
 #include "GroceryStore.h"
 #include <iostream>
 #include <fstream>
